@@ -8,9 +8,9 @@ Giz - ITK
 Shidqi - Telkom University
 
 **September**
-
 Danil - IPB
-**November**
 
+**November**
 Irgi - IPB
+Diffa - Telkom University
 
