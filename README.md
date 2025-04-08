@@ -13,3 +13,7 @@ Rivza - ITS
 
 Jason - UB
 Zhirazzi - UG
+
+**November**
+
+Arya - Telkom
