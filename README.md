@@ -8,6 +8,8 @@ Rafi - BINUS
 
 Amira - IPB
 
+Kevin - IT Del
+
 **Maret**
 
 Giz - ITK
