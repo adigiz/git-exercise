@@ -1,9 +1,14 @@
 # Data Peserta
 
+**Januari**
+
+Rafi - BINUS
+
 **September**
 
 Jason - UB
 
-**May**
+**Mei**
 
+Muafi - UGM
 Rivza - ITS
