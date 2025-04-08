@@ -1,5 +1,9 @@
 # Data Peserta
 
+**Februari**
+
+Amira - IPB
+
 **April**
 
 Oka - UGM
