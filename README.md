@@ -1,5 +1,5 @@
 # Data Peserta
 
-**Maret**
+**Februari**
 
-Giz - ITK
+Amira - IPB
