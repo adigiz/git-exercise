@@ -10,4 +10,7 @@ Shidqi - Telkom University
 **September**
 
 Danil - IPB
+**November**
+
+Irgi - IPB
 
