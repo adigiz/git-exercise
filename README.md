@@ -9,6 +9,10 @@ Amira - IPB
 Oka - UGM
 Via - IT DEL
 
+**September**
+
+Marcelino - Institut Teknologi Del
+
 **Oktober**
 
 Laras - UPNVJ
