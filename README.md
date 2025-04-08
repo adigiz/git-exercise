@@ -1,8 +1,12 @@
-
-
 # Data Peserta
 
+**Januari**
 
+Rafi - BINUS
+
+**Februari**
+
+Amira - IPB
 
 **Maret**
 
