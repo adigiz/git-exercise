@@ -23,7 +23,13 @@ Muafi - UGM
 
 Rivza - ITS
 
+**Agustus**
+
+Shidqi - Telkom University
+
 **September**
+
+Danil - IPB
 
 Marcelino - Institut Teknologi Del
 
@@ -37,8 +43,15 @@ Laras - UPNVJ
 
 **November**
 
+Irgi - IPB
+
+Diffa - Telkom University
+
 Arya - Telkom
 
 **Desember**
 
 Farino - Gunadarma
+
+Fernando - ITS
+
