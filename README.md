@@ -1,5 +1,6 @@
 # Data Peserta
 
-**Maret**
+**September**
 
-Giz - ITK
+Reynhard Powiwi - Telkom University
+
