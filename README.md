@@ -1,4 +1,5 @@
 # Data Peserta
+
 **Januari**
 
 Rafi - BINUS
@@ -6,6 +7,8 @@ Rafi - BINUS
 **Februari**
 
 Amira - IPB
+
+Kevin - IT Del
 
 **Maret**
 
@@ -16,6 +19,8 @@ Giz - ITK
 Oka - UGM
 
 Via - IT DEL
+
+Daffa - UNAIR
 
 **Mei**
 
@@ -33,6 +38,8 @@ Danil - IPB
 
 Marcelino - Institut Teknologi Del
 
+Bayu - IPB
+
 Jason - UB
 
 Zhirazzi - UG
@@ -40,6 +47,8 @@ Zhirazzi - UG
 **Oktober**
 
 Laras - UPNVJ
+
+Reynhard Powiwi - Telkom University
 
 **November**
 
@@ -55,3 +64,4 @@ Farino - Gunadarma
 
 Fernando - ITS
 
+irene-ITDel
