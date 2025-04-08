@@ -1,9 +1,15 @@
 # Data Peserta
 
-**April**
+**Januari**
 
-Jason - UB
+Rafi - BINUS
+
+**Mei**
+
+Muafi - UGM
+Rivza - ITS
 
 **September**
 
+Jason - UB
 Zhirazzi - UG
