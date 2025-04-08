@@ -1,4 +1,5 @@
 # Data Peserta
+
 **Januari**
 
 Rafi - BINUS
@@ -20,12 +21,15 @@ Via - IT DEL
 **Mei**
 
 Muafi - UGM
+
 Rivza - ITS
 
 **September**
 
 Marcelino - Institut Teknologi Del
+
 Jason - UB
+
 Zhirazzi - UG
 
 **Oktober**
