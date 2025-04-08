@@ -4,11 +4,12 @@
 
 Rafi - BINUS
 
-**September**
-
-Jason - UB
-
 **Mei**
 
 Muafi - UGM
 Rivza - ITS
+
+**September**
+
+Jason - UB
+Zhirazzi - UG
